@@ -37,3 +37,17 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+assignees:
+  - friesipayung
+  - fitrul31
+  - habibrosyad
+  - nisaratna
+      
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 0 * * *"
+  staticSite: "0 0 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 1 * * *"
+  updates: "0 0 * * *"
+  uptime: "0 0 * * *"
