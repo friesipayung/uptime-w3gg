@@ -11,7 +11,7 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
     "time": 778,
-    "timeDay": 779,
+    "timeDay": 780,
     "timeWeek": 778,
     "timeMonth": 778,
     "timeYear": 778,
@@ -43,17 +43,19 @@
     "icon": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://w3gg.io&size=128",
     "slug": "w3-gg-production-api",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 235,
+    "uptime": "99.82%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 236,
     "timeDay": 232,
-    "timeWeek": 235,
-    "timeMonth": 235,
-    "timeYear": 235,
-    "dailyMinutesDown": {}
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
+    "dailyMinutesDown": {
+      "2023-09-24": 11
+    }
   },
   {
     "name": "W3GG ICMP",
