@@ -31,7 +31,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 544,
-    "timeDay": 566,
+    "timeDay": 565,
     "timeWeek": 544,
     "timeMonth": 544,
     "timeYear": 544,
@@ -43,18 +43,18 @@
     "icon": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://w3gg.io&size=128",
     "slug": "w3-gg-production-api",
     "status": "up",
-    "uptime": "98.59%",
-    "uptimeDay": "93.80%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "98.59%",
+    "uptime": "98.44%",
+    "uptimeDay": "93.10%",
+    "uptimeWeek": "98.44%",
+    "uptimeMonth": "98.44%",
+    "uptimeYear": "98.44%",
     "time": 236,
     "timeDay": 235,
     "timeWeek": 236,
     "timeMonth": 236,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2023-09-24": 89
+      "2023-09-24": 99
     }
   },
   {
