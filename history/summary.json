@@ -10,11 +10,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
-    "time": 783,
-    "timeDay": 809,
-    "timeWeek": 783,
-    "timeMonth": 783,
-    "timeYear": 783,
+    "time": 784,
+    "timeDay": 808,
+    "timeWeek": 784,
+    "timeMonth": 784,
+    "timeYear": 784,
     "dailyMinutesDown": {
       "2023-09-22": 15
     }
@@ -43,18 +43,18 @@
     "icon": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://w3gg.io&size=128",
     "slug": "w3-gg-production-api",
     "status": "up",
-    "uptime": "83.61%",
-    "uptimeDay": "14.97%",
-    "uptimeWeek": "83.61%",
-    "uptimeMonth": "83.61%",
-    "uptimeYear": "83.61%",
+    "uptime": "83.53%",
+    "uptimeDay": "14.49%",
+    "uptimeWeek": "83.53%",
+    "uptimeMonth": "83.53%",
+    "uptimeYear": "83.53%",
     "time": 236,
     "timeDay": 238,
     "timeWeek": 236,
     "timeMonth": 236,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2023-09-25": 807,
+      "2023-09-25": 814,
       "2023-09-24": 417
     }
   },
