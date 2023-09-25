@@ -43,18 +43,18 @@
     "icon": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://w3gg.io&size=128",
     "slug": "w3-gg-production-api",
     "status": "up",
-    "uptime": "81.27%",
+    "uptime": "81.14%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "81.27%",
-    "uptimeMonth": "81.27%",
-    "uptimeYear": "81.27%",
+    "uptimeWeek": "81.14%",
+    "uptimeMonth": "81.14%",
+    "uptimeYear": "81.14%",
     "time": 236,
     "timeDay": 240,
     "timeWeek": 236,
     "timeMonth": 236,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2023-09-25": 1023,
+      "2023-09-25": 1034,
       "2023-09-24": 417
     }
   },
