@@ -46,9 +46,9 @@ assignees:
       
 workflowSchedule:
   graphs: "*/10 * * * *"
-  responseTime: "*/1 * * * *"
-  staticSite: "*/10 * * * *"
-  summary: "*/10 * * * *"
+  responseTime: "* * * * *"
+  staticSite: "*/5 * * * *"
+  summary: "*/5 * * * *"
   updateTemplate: "0 * * * *"
   updates: "0 * * * *"
-  uptime: "*/1 * * * *"
+  uptime: "* * * * *"
