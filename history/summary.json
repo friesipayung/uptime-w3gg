@@ -13,7 +13,7 @@
     "time": 761,
     "timeDay": 793,
     "timeWeek": 762,
-    "timeMonth": 754,
+    "timeMonth": 753,
     "timeYear": 761,
     "dailyMinutesDown": {
       "2023-09-22": 15
@@ -45,11 +45,11 @@
     "icon": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://w3gg.io&size=128",
     "slug": "w3-gg-production-api",
     "status": "up",
-    "uptime": "93.05%",
+    "uptime": "93.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.93%",
-    "uptimeYear": "93.05%",
+    "uptimeYear": "93.06%",
     "time": 265,
     "timeDay": 234,
     "timeWeek": 230,
