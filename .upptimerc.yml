@@ -45,10 +45,10 @@ assignees:
   - nisaratna
       
 workflowSchedule:
-  graphs: "*/10 * * * *"
-  responseTime: "* * * * *"
-  staticSite: "*/5 * * * *"
-  summary: "*/5 * * * *"
+  graphs: "*/30 * * * *"
+  responseTime: "*/10 * * * *"
+  staticSite: "*/30 * * * *"
+  summary: "*/10 * * * *"
   updateTemplate: "0 * * * *"
   updates: "0 * * * *"
-  uptime: "* * * * *"
+  uptime: "*/10 * * * *"
