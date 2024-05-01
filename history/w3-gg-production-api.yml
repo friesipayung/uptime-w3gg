@@ -1,7 +1,7 @@
 url: https://w3gg.io/api/status
-status: down
-code: 503
-responseTime: 271
-lastUpdated: 2024-05-01T15:05:10.092Z
+status: up
+code: 200
+responseTime: 274
+lastUpdated: 2024-05-01T15:06:21.621Z
 startTime: 2023-09-20T08:55:55.785Z
 generator: Upptime <https://github.com/upptime/upptime>
